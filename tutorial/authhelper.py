@@ -5,8 +5,8 @@ import json
 import time
 
 # Client ID and secret
-client_id = 'fcd2b039-c145-4a61-8b7c-9f49b76e384a'
-client_secret = 'm:nim9tNpoGcwp9HD7kJJksUe8Tfe//?'
+client_id = 'Your Client Id'
+client_secret = 'Your Secret Key'
 
 # Constant strings for OAuth2 flow
 # The OAuth authority
